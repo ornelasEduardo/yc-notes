@@ -22,3 +22,28 @@
 - Don't make something that a lot of people need mildly, build something that a small amount of people need strongly.
   - **Example:** Dig a well not a broad hole.
 - **Ask:** Who want's this right now?
+
+
+## Painting a Perfect Picture
+- There isn't a formula to make good ideas. You have to set yourself up for success by surrounding yourself in the right environment and learning the skills that are necessary.
+  - **Example:** Learning how to program.
+
+## What's Missing?
+- If you immerse yourself in the environment, start to notice what's 'missing'. 
+- Try not to overthink it, sometime really simple things are just missing.
+- **Action:** Work on projects that seem like they'd be cool. If you do that, you'll naturally tend to build things that are missing
+## Build Toys 
+- A toy has everything an idea needs except being important. It's cool; users love it; it just doesn't matter.
+
+## Just Build Things
+- Don't feel like you have to build things that will become startups. That's premature optimization. Just build things. 
+
+## Don't Worry About the Competition
+- It's rare for startups to be killed by competitors.
+- If you're too late, ask your users.
+- Inexperienced founders give competitors more credit than what's really due.
+- Crowded markets can be a good sign (high demand).
+- Compete by having your secret weapon.
+
+## Turn off the Schlep and Unsexy Filters
+- It's okay to work on boring problems. In fact, it's encouraged.

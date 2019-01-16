@@ -2,7 +2,7 @@
 
 **Author:** Paul Graham
 
-**URL:** [Why Smart People Have Bad Ideas](http://paulgraham.com/bronze.html)
+**Link:** [Why Smart People Have Bad Ideas](http://paulgraham.com/bronze.html)
 
 ---
 Paul Graham and team divide their funding applications into three categories:
